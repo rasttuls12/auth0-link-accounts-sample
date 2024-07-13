@@ -1,4 +1,4 @@
 {
-  "domain": "{tenant}.auth0.com",
-  "clientId": "CLIENT_ID"
+  "domain": "cic-trial.cic-demo-platform.auth0app.com",
+  "clientId": "yiIwPa7zsTeran36q141YnbiE9QwsfFm"
 }
